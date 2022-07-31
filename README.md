@@ -1,9 +1,11 @@
-Title
-Description
-table of contents
-how to install and run project
-how to use the project
-include credits, collabs
-license
-# DataCleaningCorrelation-Python
-This project was to clean and analyze a movie dataset in Python.
+# Movie Dataset Cleaned and Examined for Correlation Using Python.
+#### 
+
+
+##### In the dataset were roughly 7600 rows of movies including name, rating, genre, year of release, year of production, score, votes, director, writer, star, country, budget, gross revenue generated, company, and runtime in minutes.
+
+##### this is still in progress.... 
+
+
+
+
