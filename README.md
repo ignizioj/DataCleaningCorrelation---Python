@@ -26,4 +26,6 @@
 ![ScreenShot](https://github.com/ignizioj/DataCleaningCorrelation-Python/blob/main/HeatmapCorrelationMovieFeatures.png)
 ![ScreenShot](https://github.com/ignizioj/DataCleaningCorrelation-Python/blob/main/HeatmapNumericaFeatures.png)
 
-## My conclusion was that yes, movies with a higher budget do in general earn more.  Is this because the quality is better? Maybe. This question is left to be answered as the ratings don't seem to be consistently correlated.  However, the votes that a movie gets are correlated at a moderate strength with the budget.  This may be because of the profile or knowledge of the movie prior to release. 
+### My conclusion was that yes, movies with a higher budget do in general earn more.  Is this because the quality is better? Maybe. This question is left to be answered as the ratings don't seem to be consistently correlated.  However, the votes that a movie gets are correlated at a moderate strength with the budget.  This may be because of the profile or knowledge of the movie prior to release. 
+
+### Feel free to browse any files found in the repository.  I was the only contributer in this project.  Thanks!
