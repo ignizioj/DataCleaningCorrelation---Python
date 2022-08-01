@@ -1,4 +1,4 @@
-# Movie Dataset Cleaned and Examined for Correlation Using Python.
+# Movie Dataset Cleaned and Examined for Correlation Using Python
 ### In the dataset were roughly 7600 rows of movies including name, rating, genre, year of release, year of production, score, votes, director, writer, star, country, budget, gross revenue generated, company, and runtime in minutes.
 
 #### Before progressing to my questions and analysis of the data, I had to standardize and clean a few fields.  The first was to check for any missing data. I then dropped nulls based on the percentage calculated as I would be unable to do any prediction analysis with these specifically. The second item I addressed was the date released. I created a seperate column for this correction as I only wanted the year of release and had to essentially parse the "released" column for the year portion. 
